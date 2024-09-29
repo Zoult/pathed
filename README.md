@@ -1,5 +1,3 @@
-## Pathed
-
 ## [⬇ Download](https://github.com/Zoult/pathed/raw/refs/heads/main/pathed.exe)
 
 ### ⚠️ Disclaimer
